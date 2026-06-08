@@ -15,6 +15,8 @@ This is a list of various books, courses and other resources for sports analytic
 
 ### Software and Libraries
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI sports analytics agents. Verify agent wallet identity before x402 micropayment access to premium data APIs and real-time statistics feeds. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### Blogs
 
 ### Data
